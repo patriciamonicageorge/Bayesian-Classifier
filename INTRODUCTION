@@ -1,0 +1,10 @@
+# Bayesian-Classifier
+Pattern Recognition 
+OBJECTIVE
+    To design and test a Bayesian classifier which minimises classification error.
+INPUT DATA
+    The data to be used for training (H) the classifier is given in the file TRAINING DATA.
+    The data to be used for testing (T) the classifier is given in the file TEST DATA.
+DESCRIPTION
+    This is a c = 3 class problem. Both the training data and test data consists of 15,000 d = 4 dimensional vectors in physical coordinates, with one feature vector (transposed) per line. The first 5000 samples in TRAINING DATA correspond to class 1 (C1), the second 5000 samples correspond to class 2 (C2) and the third 5000 samples correspond to class 3 (C3). Using the training data, the objective is to train and determine the class for each sample using a Bayesian classifier design and then use the classifier to classify the test data.
+The probability of error and the confusion matrix for both the classified data are also to be determined.
