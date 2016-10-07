@@ -1,0 +1,25 @@
+%OUTPUT
+
+
+PROBABILTY_OF_ERROR_H =
+
+    0.1775
+
+
+CONFUSION_MATRIX_H =
+
+        3820         479         701
+         115        4817          68
+        1118         181        3701
+
+
+PROBABILITY_OF_ERROR_T =
+
+    0.1815
+
+
+CONFUSION_MATRIX_T =
+
+        3802         490         708
+         134        4794          71
+        1121         198        3681
