@@ -1,7 +1,7 @@
 # Bayesian-Classifier
 Pattern Recognition 
 OBJECTIVE
-    To design and test a Bayesian classifier which minimises classification error.
+    To design and test a Bayesian classifier which minimizes classification error.
 INPUT DATA
     The data to be used for training (H) the classifier is given in the file TRAINING DATA.
     The data to be used for testing (T) the classifier is given in the file TEST DATA.
